@@ -1,0 +1,25 @@
+html {
+  filter: invert(100%);
+}
+.edubarMenuitem.v2.active > .edubarSmartLink {
+  background-color: #44bd32 !important;
+}
+.userTopDiv {
+  color: black !important;
+  background-color: rgb(244, 67, 54) !important;
+}
+.userRozvrh b {
+  color: black !important;
+}
+.userRozvrh {
+  background-color: rgb(244, 67, 54) !important;
+}
+.user-novyPrvok {
+  background: rgb(244, 67, 54) !important;
+}
+.userTopDiv {
+  background: rgb(244, 67, 54) !important;
+}
+.odpocitavanie span {
+  color: black !important;
+}

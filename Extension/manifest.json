@@ -1,0 +1,14 @@
+{
+  "name": "Edupage dark mode",
+  "version": "1.0",
+  "description": "simple dark mode for Edupage website",
+  "manifest_version": 2,
+    "content_scripts": [{
+    "css": ["styles.css"],
+    "js": ["script.js"],
+    "matches": ["https://spsnitra.edupage.org/*"]
+  }],
+  "icons": {
+    "128": "icon.png"
+    }
+}
